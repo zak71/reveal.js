@@ -11,9 +11,15 @@
 #+REVEAL_THEME: black
 # #+REVEAL_THEME: keele_night
 
+<<<<<<< HEAD
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 # #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/2.5.0/reveal.js
 # +REVEAL_ROOT: ../../
+=======
+# #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+# #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/2.5.0/reveal.js
+#+REVEAL_ROOT: ../../
+>>>>>>> lect_1 slide completion and upload
 # #+REVEAL_ROOT: /mnt/c/Users/Zak/GIT/
 # #+REVEAL_ROOT: fie:///mnt/c/Users/Zak/GIT/
 

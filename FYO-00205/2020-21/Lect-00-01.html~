@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>FY Physics Welcome talk</title>
+<meta name="author" content="(Dr. B. Zarychta (Zak))"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="./reveal.js/css/theme/black.css" id="theme"/>
+
+<link rel="stylesheet" href="./reveal.js/lib/css/zenburn.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">FY Physics Welcome talk</h1><h2 class="author">Dr. B. Zarychta (Zak)</h2><p class="date">Created: 2020-09-22 Tue 16:45</p>
+</section>
+
+<section>
+<section id="slide-org4e62f0b">
+<h2 id="org4e62f0b">0.0: Welcome</h2>
+<div class="outline-text-2" id="text-org4e62f0b">
+</div>
+</section>
+<section id="slide-orgde495df">
+<h3 id="orgde495df">0.1 If you have your own mobile device</h3>
+<p target="_blank">
+<a href="https://zak71.github.io/reveal.js/Lect_0_19-20_1-02.html" target="_blank">https://zak71.github.io/reveal.js/Lect<sub>0</sub><sub>19</sub>-20<sub>1</sub>-02.html</a>
+</p>
+
+</section>
+<section id="slide-org2c8268f">
+<h3 id="org2c8268f">0.2 Teaching staff (name &amp; contact)</h3>
+<ul>
+<li class="fragment roll-in">Dr. Bernard Zarychta (Zak) 
+<ul>
+<li><a href="mailto:%20b.zarychta@keele.ac.uk">b.zarychta@keele.ac.uk</a></li>
+
+</ul></li>
+<li class="fragment roll-in">Mr. Kieron Nixon (Kieron) 
+<ul>
+<li><a href="mailto:%20k.s.nixon1@keele.ac.uk">k.s.nixon1@keele.ac.uk</a></li>
+
+</ul></li>
+<li class="fragment roll-in">Phone: +44 1782 (7)33245</li>
+
+</ul>
+</section>
+<section id="slide-orgd765419">
+<h3 id="orgd765419">0.3 Teaching Staff (location)</h3>
+<ul>
+<li>Science Learning Centre (SLC 0.11) "CREATE"
+<ul>
+<li>south entrance, down the corridor, first office on left</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-org285f279" data-background="IMAGES/Keele_my_office_1-0.png" data-background-size="1024px" data-background-transition="slide">
+<h3 id="org285f279"></h3>
+
+</section>
+</section>
+<section>
+<section id="slide-org21c642b">
+<h2 id="org21c642b">1.0: Course structure</h2>
+<div class="outline-text-2" id="text-org21c642b">
+</div>
+</section>
+<section id="slide-orga9dadee">
+<h3 id="orga9dadee">1.1: Course structure (Overview)</h3>
+<ul>
+<li class="fragment roll-in">4 modules in total (2 semesters)</li>
+<li class="fragment roll-in">2 ⨯ Autumn (Aut)</li>
+<li class="fragment roll-in">2 ⨯ Spring (Spr)</li>
+
+</ul>
+</section>
+<section id="slide-orgd4243e2">
+<h3 id="orgd4243e2">1.2: Course Structure (modules)</h3>
+<ul>
+<li class="fragment roll-in">FYO-00118 Newtonian World (Aut, KN)</li>
+<li class="fragment roll-in">FYO-00138 Quanta, Atoms, and particles (Aut, BZ)</li>
+<li class="fragment roll-in">FYO-00137 Electricity and electronics (Spr, BZ)</li>
+<li class="fragment roll-in">FYO-00136 Thermal Physics (Spr, KN)</li>
+
+</ul>
+</section>
+<section id="slide-org58f9803">
+<h3 id="org58f9803">1.3: Course Structure (Semesters)</h3>
+<p target="_blank">
+<a href="https://www.keele.ac.uk/students/academiclife/keydates/" target="_blank">Keele University key dates</a>
+</p>
+<ul>
+<li class="fragment roll-in">Semester 1 (Aut) {* teaching term}
+<ul>
+<li>30/10/2019 - 24/01/2020 {*20/12/2019)}</li>
+
+</ul></li>
+<li class="fragment roll-in">Semester 2 (Spr)
+<ul>
+<li>27/01/2020 - 12/06/2020</li>
+
+</ul></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org94d079a">
+<h2 id="org94d079a">2.0: Assessment</h2>
+<div class="outline-text-2" id="text-org94d079a">
+</div>
+</section>
+<section id="slide-orga388ea3">
+<h3 id="orga388ea3">2.1: Assessment (types)</h3>
+<div class="outline-text-3" id="text-orga388ea3">
+</div>
+</section>
+<section id="slide-orgd9b3a7d">
+<h4 id="orgd9b3a7d">2.1.1: Examinations</h4>
+<p target="_blank">
+dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/examinationtimetables/" target="_blank">Exam timetables</a>
+</p>
+<ul>
+<li class="fragment roll-in">1 ⨯ 2hr for each module</li>
+<li class="fragment roll-in">Sem 1 (Aut) exam period, (13-24/01/20)</li>
+
+</ul>
+</section>
+<section id="slide-org3433dcc">
+<h4 id="org3433dcc">2.1.2: Assessed Problem Sheets (APS's)</h4>
+<ul>
+<li class="fragment roll-in">FYO-00118 by Thu wk5</li>
+<li class="fragment roll-in">FYO-00138 by Thu wk6</li>
+
+</ul>
+</section>
+<section id="slide-org12e7938">
+<h4 id="org12e7938">2.1.3: Laboratory</h4>
+<ul>
+<li class="fragment roll-in">FYO-00118 lab notebook by Thu wk8</li>
+<li class="fragment roll-in">FYO-00138 typeset report by Mon wk13 06/01/2020</li>
+
+</ul>
+
+</section>
+<section id="slide-org4b17cb2" data-background="IMAGES/module_pie_1-1.png" data-background-size="1024px" data-background-transition="slide">
+<h3 id="org4b17cb2"></h3>
+
+</section>
+</section>
+<section>
+<section id="slide-orgccbac65">
+<h2 id="orgccbac65">3.0 Ground Rules</h2>
+<div class="outline-text-2" id="text-orgccbac65">
+</div>
+</section>
+<section id="slide-orgb303b5b">
+<h3 id="orgb303b5b">3.1 Our expectations</h3>
+</section>
+<section id="slide-org9265a2c">
+<h3 id="org9265a2c">3.1.1 Engagement</h3>
+<ul>
+<li class="fragment roll-in">be active&#x2026;.</li>
+<li class="fragment roll-in">&#x2026; note taking</li>
+<li class="fragment roll-in">&#x2026; answering Q's etc)</li>
+
+</ul>
+</section>
+<section id="slide-orgeb4ff37">
+<h3 id="orgeb4ff37">3.1.2 Punctuality</h3>
+<ul>
+<li class="fragment roll-in">lateness is disruptive&#x2026;</li>
+<li class="fragment roll-in">&#x2026; occasionally forgivable</li>
+<li class="fragment roll-in">&#x2026; habitually is a problem</li>
+
+</ul>
+</section>
+<section id="slide-org27fdbed">
+<h3 id="org27fdbed">3.1.3 Noise</h3>
+<ul>
+<li class="fragment roll-in">be respectful of the person addressing the room</li>
+
+</ul>
+</section>
+<section id="slide-org898e47a">
+<h3 id="org898e47a">3.2 Your expectations</h3>
+</section>
+<section id="slide-org43c5697">
+<h3 id="org43c5697">3.2.1 Communication</h3>
+<ul>
+<li class="fragment roll-in">Emails replied to within 48 (working) hours</li>
+<li class="fragment roll-in">Organise appointments&#x2026;.</li>
+<li class="fragment roll-in">&#x2026;. can be done on the fly</li>
+<li class="fragment roll-in">&#x2026;. best done via email</li>
+
+</ul>
+</section>
+<section id="slide-orgb01e999">
+<h3 id="orgb01e999">3.2.2 Assessment</h3>
+<ul>
+<li class="fragment roll-in">Returned within 3 (working) weeks</li>
+<li class="fragment roll-in">can request further feedback&#x2026;</li>
+<li class="fragment roll-in">&#x2026;even on examinations</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org3ad86ca">
+<h2 id="org3ad86ca">4.0 Additional stuff</h2>
+<div class="outline-text-2" id="text-org3ad86ca">
+</div>
+</section>
+<section id="slide-orga92401c">
+<h3 id="orga92401c">4.1 Set text</h3>
+<ul>
+<li>Advanced Physics, Tom Duncan, 5th ed, 2000</li>
+
+</ul>
+</section>
+<section id="slide-org9111882">
+<h3 id="org9111882">4.2 Calculators</h3>
+<ul>
+<li>Aurora SC582 series</li>
+<li>Casio FX-83 series</li>
+<li>Casio FX-85 series</li>
+<li>Casio FX-350 series</li>
+<li>Sharp EL-531 series</li>
+<li>Texas Instruments TI30 series</li>
+<li data-fragment-index="7" class="fragment highlight-red">Must be one of the above listed for exams</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orgf861b8d">
+<h2 id="orgf861b8d">5.0 Questions ?</h2>
+<p target="_blank">
+email: <br />
+<a href="mailto:%20b.zarychta@keele.ac.uk" target="_blank">b.zarychta@keele.ac.uk</a> <br />
+<a href="mailto:%20k.s.nixon1@keele.ac.uk">k.s.nixon1@keele.ac.uk</a>
+</p>
+
+</section>
+<section id="slide-org3df2220">
+<h3 id="org3df2220">5.1 A question for you</h3>
+<p>
+\(-80538738812075974^3 \\ + 80435758145817515^3 \\ + 12602123297335631^3 = \,\,?\\\)
+</p>
+<p target="_blank">
+<a href="https://www.sciencedaily.com/releases/2019/09/190906134011.htm" target="_blank">Read about it here</a>
+</p>
+
+</section>
+<section id="slide-org4df81e8">
+<h3 id="org4df81e8">Whatever you do,&#x2026;..</h3>
+</section>
+<section id="slide-org65dd127" data-background="IMAGES/dont_panic.png" data-background-size="1024px" data-background-transition="slide" data-audio-src="./audio/song.ogg">
+<h3 id="org65dd127"></h3>
+</section>
+</section>
+</div>
+</div>
+<script src="./reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+,
+ { src: './reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>
