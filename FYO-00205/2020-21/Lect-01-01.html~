@@ -30,6 +30,7 @@
 <section id="sec-title-slide" data-background="../../images/TITLE-STND_BG-ForestOfLight_SmlLogo-top-right.png" data-background-size="cover" data-background-repeat="Set to repeat to repeat the image." data-background-opacity="1"><h2>FYO-00205 Lecture 01-01:</h2><br><h1>Dimensions, Units and Conversions</h1>
 </section>
 <section>
+<<<<<<< HEAD
 <section id="slide-orgd736d55" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h2 id="orgd736d55">Table of contents</h2>
 <ul>
@@ -91,6 +92,20 @@
 </section>
 <section id="slide-org90e33b7" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org90e33b7">Prerequisites</h3>
+=======
+<section id="slide-org0c63b6f" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h2 id="org0c63b6f">Table of contents</h2>
+</section>
+</section>
+<section>
+<section id="slide-org7ae8509" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h2 id="org7ae8509">0.0: Preliminaries</h2>
+<div class="outline-text-2" id="text-org7ae8509">
+</div>
+</section>
+<section id="slide-org2e99adf" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org2e99adf">Prerequisites</h3>
+>>>>>>> lect_1 slide completion and upload
 <ul>
 <li>students should be familiar with 
 <ul>
@@ -103,6 +118,7 @@
 </section>
 </section>
 <section>
+<<<<<<< HEAD
 <section id="slide-orga1eebd5" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h2 id="orga1eebd5">1.0: Dimensions</h2>
 <div class="outline-text-2" id="text-orga1eebd5">
@@ -110,6 +126,15 @@
 </section>
 <section id="slide-org59eaefd" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org59eaefd">1.1: Base dimensions</h3>
+=======
+<section id="slide-org84e0657" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h2 id="org84e0657">1.0: Dimensions</h2>
+<div class="outline-text-2" id="text-org84e0657">
+</div>
+</section>
+<section id="slide-org4074035" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org4074035">1.1: Base dimensions</h3>
+>>>>>>> lect_1 slide completion and upload
 <ul style="text-align:left">
 <li data-fragment-index="1" class="fragment roll-in">All quantities in mechanics are composed of three base quantities refered to as dimensions.</li>
 
@@ -132,8 +157,13 @@
 </ul>
 
 </section>
+<<<<<<< HEAD
 <section id="slide-org6a599fc" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org6a599fc">1.2: Dimensional combinations</h3>
+=======
+<section id="slide-orgbbab6fe" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="orgbbab6fe">1.2: Dimensional combinations</h3>
+>>>>>>> lect_1 slide completion and upload
 <p class="fragment (roll-in)" style="text-align:left">
 Combinations of these base quantities make up other quantities
 </p>
@@ -145,8 +175,13 @@ Combinations of these base quantities make up other quantities
 
 </ul>
 </section>
+<<<<<<< HEAD
 <section id="slide-orgad529a7" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="orgad529a7">1.3.1 Exercises \(-\) 1</h3>
+=======
+<section id="slide-orgdf0411c" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="orgdf0411c">1.3.1 Exercises \(-\) 1</h3>
+>>>>>>> lect_1 slide completion and upload
 <p style="text-align:left">
 What are the quantites described by the following dimensional combinations?
 </p>
@@ -170,8 +205,13 @@ What are the quantites described by the following dimensional combinations?
 </ul>
 </div>
 </section>
+<<<<<<< HEAD
 <section id="slide-org70c2dbd" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org70c2dbd">1.3.2 Exercises \(-\) 2</h3>
+=======
+<section id="slide-org00038c0" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org00038c0">1.3.2 Exercises \(-\) 2</h3>
+>>>>>>> lect_1 slide completion and upload
 <p style="text-align:left">
 What are the dimensional combinations for the following quantities?
 </p>
@@ -197,14 +237,24 @@ What are the dimensional combinations for the following quantities?
 </section>
 </section>
 <section>
+<<<<<<< HEAD
 <section id="slide-org7d1d957" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h2 id="org7d1d957">2.0: Units</h2>
+=======
+<section id="slide-org8baf41e" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h2 id="org8baf41e">2.0: Units</h2>
+>>>>>>> lect_1 slide completion and upload
 <p class="fragment (roll-in) ;frag_idx (1)" style="text-align:left">
 Units are essentially dimensions that are given a magnitude (size)
 </p>
 </section>
+<<<<<<< HEAD
 <section id="slide-org31f45be" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org31f45be">2.1: Length</h3>
+=======
+<section id="slide-org9d9aa8e" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org9d9aa8e">2.1: Length</h3>
+>>>>>>> lect_1 slide completion and upload
 <ul style="text-align:left">
 <li data-fragment-index="2" class="fragment roll-in">metre \(\left(\rm{m}\right)\)</li>
 <li data-fragment-index="2" class="fragment roll-in">foot \(\left(\rm{ft}\right)\)</li>
@@ -215,8 +265,13 @@ Units are essentially dimensions that are given a magnitude (size)
 
 </ul>
 </section>
+<<<<<<< HEAD
 <section id="slide-org6a09c45" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org6a09c45">2.1.1: Time</h3>
+=======
+<section id="slide-org671d115" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org671d115">2.1.1: Time</h3>
+>>>>>>> lect_1 slide completion and upload
 <ul style="text-align:left">
 <li data-fragment-index="1" class="fragment roll-in">second \(\left(\rm{s}\right)\)</li>
 <li data-fragment-index="1" class="fragment roll-in">day \(\left(\rm{d}\right)\)</li>
@@ -230,8 +285,13 @@ Units are essentially dimensions that are given a magnitude (size)
 
 </ul>
 </section>
+<<<<<<< HEAD
 <section id="slide-org2798dc5" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org2798dc5">2.1.2: Mass</h3>
+=======
+<section id="slide-org6296226" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org6296226">2.1.2: Mass</h3>
+>>>>>>> lect_1 slide completion and upload
 <ul style="text-align:left">
 <li data-fragment-index="1" class="fragment roll-in">kilogram \(\left(\rm{kg}\right)\)</li>
 <li data-fragment-index="1" class="fragment roll-in">tonne \(\left(\rm{t}\right)\)</li>
@@ -243,8 +303,13 @@ Units are essentially dimensions that are given a magnitude (size)
 
 </ul>
 </section>
+<<<<<<< HEAD
 <section id="slide-orga7ef1b8" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="orga7ef1b8">2.2 SI base units</h3>
+=======
+<section id="slide-org3122421" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org3122421">2.2 SI base units</h3>
+>>>>>>> lect_1 slide completion and upload
 <ul style="text-align:left">
 <li data-fragment-index="1" class="fragment roll-in">International system of units (Système international d'unités)</li>
 <li data-fragment-index="2" class="fragment roll-in">base system known as metre-kilogram-second (MKS)</li>
@@ -258,8 +323,13 @@ Units are essentially dimensions that are given a magnitude (size)
 
 </ul>
 </section>
+<<<<<<< HEAD
 <section id="slide-orgd42fda7" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="orgd42fda7">2.3 SI derived units</h3>
+=======
+<section id="slide-orga978e55" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="orga978e55">2.3 SI derived units</h3>
+>>>>>>> lect_1 slide completion and upload
 <ul style="text-align:left">
 <li data-fragment-index="1" class="fragment roll-in">SI base units are combined to yield so called derived units</li>
 
@@ -272,8 +342,13 @@ Units are essentially dimensions that are given a magnitude (size)
 
 </ul>
 </section>
+<<<<<<< HEAD
 <section id="slide-org879f4ce" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org879f4ce">2.4 Exercises \(-\) 3</h3>
+=======
+<section id="slide-orga55ef2a" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="orga55ef2a">2.4 Exercises \(-\) 3</h3>
+>>>>>>> lect_1 slide completion and upload
 <p style="text-align:left">
 What is the correct combination of SI base units that describe the following quantities?
 </p>
@@ -297,8 +372,13 @@ What is the correct combination of SI base units that describe the following qua
 </ul>
 </div>
 </section>
+<<<<<<< HEAD
 <section id="slide-org5d667d1" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org5d667d1">2.5 Exercises \(-\) 4</h3>
+=======
+<section id="slide-org3fa5fd4" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org3fa5fd4">2.5 Exercises \(-\) 4</h3>
+>>>>>>> lect_1 slide completion and upload
 <p style="text-align:left">
 What quantities are described by the following combination of SI base units?
 </p>
@@ -322,14 +402,24 @@ What quantities are described by the following combination of SI base units?
 </section>
 </section>
 <section>
+<<<<<<< HEAD
 <section id="slide-org7587a33" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h2 id="org7587a33">3 SI prefixes</h2>
+=======
+<section id="slide-orge2f56f2" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h2 id="orge2f56f2">3 SI prefixes</h2>
+>>>>>>> lect_1 slide completion and upload
 <p class="fragment (roll-in) ;frag_idx (1)" style="text-align:left">
 large and small amounts of physical values may be quantified with prefixes 
 </p>
 </section>
+<<<<<<< HEAD
 <section id="slide-orgc3d7c0a" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="orgc3d7c0a">3.1 Some SI prefixes</h3>
+=======
+<section id="slide-org321f718" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org321f718">3.1 Some SI prefixes</h3>
+>>>>>>> lect_1 slide completion and upload
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides" class="fragment (roll-in) ;frag_idx (1)" style="text-align:left">
 
 
@@ -393,8 +483,13 @@ large and small amounts of physical values may be quantified with prefixes
 </table>
 
 </section>
+<<<<<<< HEAD
 <section id="slide-org56a7ad6" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org56a7ad6">3.2 Examples of prefixes</h3>
+=======
+<section id="slide-orgb6d3066" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="orgb6d3066">3.2 Examples of prefixes</h3>
+>>>>>>> lect_1 slide completion and upload
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides" class="fragment (roll-in) ;frag_idx (1)" style="text-align:left">
 
 
@@ -432,14 +527,23 @@ large and small amounts of physical values may be quantified with prefixes
 </table>
 
 <ul target="_blank" style="text-align:left">
+<<<<<<< HEAD
 <li class="fragment roll-in">Check out the
 <a href="https://keeleacuk.sharepoint.com/:b:/r/sites/FNS-FoundationYearCentre-SFYTeam/Shared%20Documents/SFY%20Team/New%20Module%20Resources/Foundations%20in%20Physics/A4_booklet_CamMath_CURRENT_EXAM.pdf?csf=1&amp;web=1&amp;e=REtKru">Foundation Year Physics Tables</a> booklet</li>
+=======
+<li class="fragment roll-in">Check out the [[<a href="http://orgmode.org/manual/Hyperlinks.html">http://orgmode.org/manual/Hyperlinks.html</a>][Physics Exam booklet]</li>
+>>>>>>> lect_1 slide completion and upload
 
 </ul>
 
 </section>
+<<<<<<< HEAD
 <section id="slide-org14d3902" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org14d3902">3.3.0 Exercises \(-\) 5.0</h3>
+=======
+<section id="slide-org0897e1e" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org0897e1e">3.3.0 Exercises \(-\) 5.0</h3>
+>>>>>>> lect_1 slide completion and upload
 <p style="text-align:left">
 Describe the following quantities by 
 </p>
@@ -454,24 +558,39 @@ Describe the following quantities by
 
 </ul>
 </section>
+<<<<<<< HEAD
 <section id="slide-orga8e3389" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="orga8e3389">3.3.1 Exercises \(-\) 5.1</h3>
+=======
+<section id="slide-org232be15" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org232be15">3.3.1 Exercises \(-\) 5.1</h3>
+>>>>>>> lect_1 slide completion and upload
 <dl style="text-align:left">
 <dt data-fragment-index="1" class="fragment roll-in">Question</dt><dd data-fragment-index="1" class="fragment roll-in">The speed of a particle travels 5 centimetres in 10 nanoseconds</dd>
 <dt data-fragment-index="2" class="fragment roll-in">Answer</dt><dd data-fragment-index="2" class="fragment roll-in">\(5\times 10^{6} {\rm m \, s^{-1}} = 5 \, {\rm Mm \, s^{-1}}\)</dd>
 
 </dl>
 </section>
+<<<<<<< HEAD
 <section id="slide-org29cbd30" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org29cbd30">3.3.2 Exercises \(-\) 5.2</h3>
+=======
+<section id="slide-org1f13472" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org1f13472">3.3.2 Exercises \(-\) 5.2</h3>
+>>>>>>> lect_1 slide completion and upload
 <dl style="text-align:left">
 <dt data-fragment-index="1" class="fragment roll-in">Question</dt><dd data-fragment-index="1" class="fragment roll-in">The work done on a body when a force of 1 kilonewton is applied to the body for a distance of 7 nanometres</dd>
 <dt data-fragment-index="2" class="fragment roll-in">Answer</dt><dd data-fragment-index="2" class="fragment roll-in">\(7 \times 10^{-6} {\rm N \, m} = 7 \,{\rm\unicode{181}J}\)</dd>
 
 </dl>
 </section>
+<<<<<<< HEAD
 <section id="slide-org3140eeb" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="org3140eeb">3.3.3 Exercises \(-\) 5.3</h3>
+=======
+<section id="slide-org11a70a7" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="org11a70a7">3.3.3 Exercises \(-\) 5.3</h3>
+>>>>>>> lect_1 slide completion and upload
 <dl style="text-align:left">
 <dt data-fragment-index="1" class="fragment roll-in">Question</dt><dd data-fragment-index="1" class="fragment roll-in">The force exerted on a body of mass 1 tonne that is accelerated by 6 micrometers per millisecond per millisecond.</dd>
 <dt data-fragment-index="2" class="fragment roll-in">Answer</dt><dd data-fragment-index="2" class="fragment roll-in">\(6 \times 10^{3} {\rm kg \, m \, s^{-2}} = 6 \,{\rm
@@ -479,12 +598,21 @@ Describe the following quantities by
 
 </dl>
 </section>
+<<<<<<< HEAD
 <section id="slide-orgd47f5bd" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
 <h3 id="orgd47f5bd">3.3.4 Exercises \(-\) 5.4</h3>
 <dl style="text-align:left">
 <dt data-fragment-index="1" class="fragment roll-in">Question</dt><dd data-fragment-index="1" class="fragment roll-in">The the pressure exerted by a cylindrical body of mass
 4.33 kilotonne that has a circular cross section of
 diameter 30.0 centimetres that is under under the
+=======
+<section id="slide-orga5c5b5b" data-background="../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png" data-background-size="cover" data-background-opacity="1">
+<h3 id="orga5c5b5b">3.3.4 Exercises \(-\) 5.4</h3>
+<dl style="text-align:left">
+<dt data-fragment-index="1" class="fragment roll-in">Question</dt><dd data-fragment-index="1" class="fragment roll-in">The the pressure exerted by a cylindrical body of mass
+4.33 kilotonne that has a circular cross section of
+diameter 30 centimetres that is under under the
+>>>>>>> lect_1 slide completion and upload
 influence of gravity in contact with a
 flat surface.</dd>
 <dt data-fragment-index="2" class="fragment roll-in">Answer</dt><dd data-fragment-index="2" class="fragment roll-in">\(6.00 \times 10^{8} {\rm kg \, m^{-1} \, s^{-2}} = 600
