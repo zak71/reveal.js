@@ -1,0 +1,296 @@
+#+OPTIONS: num:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: tag:reveal_mathjax
+
+#+REVEAL_INIT_OPTIONS: slideNumber:false
+
+# #+REVEAL_TRANS: None/Fade/Slide/Convex/Concave/Zoom
+# #+REVEAL_THEME: Black/White/League/Sky/Beige/Simple/Serif/Blood/Night/Moon/Solarized
+
+#+REVEAL_TRANS: slide 
+#+REVEAL_THEME: black
+# #+REVEAL_THEME: keele_night
+
+# #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+# #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/2.5.0/reveal.js
+#+REVEAL_ROOT: ../../
+# #+REVEAL_ROOT: /mnt/c/Users/Zak/GIT/
+# #+REVEAL_ROOT: fie:///mnt/c/Users/Zak/GIT/
+
+#+REVEAL_PLUGINS: (audio-slideshow classList markdown highlight zoom notes search remotes)
+# Set autoplay to true for audio plugin.
+#+OER_REVEAL_AUDIO_SLIDESHOW_CONFIG: audioStartAtFragment: true, audio: { advance: -1, autoplay: true, defaultDuration: 0, defaultAudios: false, playerOpacity: 0.8, playerStyle: 'position: fixed; bottom: 9.5vh; left: 0%; width: 30%; height:30px; z-index: 33;' }
+
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND: ../../images/SLIDE-WIDE_BG-blue_SmlLogo-top-right.png
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_SIZE: cover
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY: 1
+
+#+REVEAL_TITLE_SLIDE_BACKGROUND: ../../images/TITLE-STND_BG-ForestOfLight_SmlLogo-top-right.png
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE: cover
+#+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT: Set to repeat to repeat the image.
+#+REVEAL_TITLE_SLIDE_BACKGROUND_OPACITY: 1
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2><br><h1>%s</h1>
+
+
+#+Title: FYO-00205 Lecture 01-01: 
+#+Subtitle: Dimensions, Units and Conversions 
+#+Author: Dr. B. Zarychta (Zak)
+#+Email: [[mailto: b.zarychta@keele.ac.uk][b.zarychta@keele.ac.uk]]
+#+Date: 15th August 2020
+* Table of contents
+  - [[Table of contents][Table of contents]]
+  - [[0.0: Preliminaries][0.0: Preliminaries]]
+    - [[Prerequisites][Prerequisites]]
+  - [[1.0: Dimensions][1.0: Dimensions]]
+    - [[1.1: Base dimensions][1.1: Base dimensions]]
+    - [[1.2: Dimensional combinations][1.2: Dimensional combinations]]
+    - [[1.3.1 Exercises $-$ 1][1.3.1 Exercises $-$ 1]]
+    - [[1.3.2 Exercises $-$ 2][1.3.2 Exercises $-$ 2]]
+#+REVEAL: split
+  - [[2.0: Units][2.0: Units]]
+    - [[2.1: Length][2.1: Length]]
+    - [[2.1.1: Time][2.1.1: Time]]
+    - [[2.1.2: Mass][2.1.2: Mass]]
+    - [[2.2 SI base units][2.2 SI base units]]
+    - [[2.3 SI derived units][2.3 SI derived units]]
+    - [[2.4 Exercises $-$ 3][2.4 Exercises $-$ 3]]
+    - [[2.5 Exercises $-$ 4][2.5 Exercises $-$ 4]]
+#+REVEAL: split
+  - [[3 SI prefixes][3 SI prefixes]]
+    - [[3.1 Some SI prefixes][3.1 Some SI prefixes]]
+    - [[3.2 Examples of prefixes][3.2 Examples of prefixes]]
+    - [[3.3.0 Exercises $-$ 5.0][3.3.0 Exercises $-$ 5.0]]
+    - [[3.3.1 Exercises $-$ 5.1][3.3.1 Exercises $-$ 5.1]]
+    - [[3.3.2 Exercises $-$ 5.2][3.3.2 Exercises $-$ 5.2]]
+    - [[3.3.3 Exercises $-$ 5.3][3.3.3 Exercises $-$ 5.3]]
+    - [[3.3.4 Exercises $-$ 5.4][3.3.4 Exercises $-$ 5.4]]
+* 0.0: Preliminaries
+** Prerequisites 
+   - students should be familiar with 
+     - powers and indices
+     - Standard form/scientific notation
+* 1.0: Dimensions
+** 1.1: Base dimensions
+#+ATTR_REVEAL: :frag (roll-in) :frag_idx (1)
+#+ATTR_HTML: :style text-align:left
+   - All quantities in mechanics are composed of three base quantities refered to as dimensions.
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in) :frag_idx (2 2 2)
+#+ATTR_HTML: :style text-align:left
+     - length, $\left[ \rm{L} \right]$
+     - time, $\left[ \rm{T} \right]$
+     - mass, $\left[ \rm{M} \right]$
+
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in) :frag_idx (3)
+#+ATTR_HTML: :style text-align:left
+   - when discussing electricity and magnetism we also include
+
+#+ATTR_REVEAL: :frag (roll-in) :frag_idx (4)
+#+ATTR_HTML: :style text-align:left
+     - charge, $\left[ \rm{Q} \right]$
+
+** 1.2: Dimensional combinations
+#+ATTR_REVEAL: :frag (roll-in)
+#+ATTR_HTML: :style text-align:left
+Combinations of these base quantities make up other quantities
+#+ATTR_REVEAL: :frag (roll-in)
+#+ATTR_HTML: :style text-align:left
+   - speed, $\left[ \rm{L} \right] \left[ \rm{T} \right]^{-1}$
+   - acceleration, $\left[ \rm{L} \right] \left[ \rm{T} \right]^{-2}$
+   - momentum, $\left[ \rm{M} \right] \left[ \rm{L} \right] \left[ \rm{T} \right]^{-2}$
+   - kinetic energy, $\left[ \rm{M} \right] \left[ \rm{L} \right]^2 \left[ \rm{T} \right]^{-2}$
+** 1.3.1 Exercises $-$ 1
+#+ATTR_HTML: :style text-align:left
+What are the quantites described by the following dimensional combinations?
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (1 1 1 1)
+   - $\left[ \rm{L} \right] \left[ \rm{T} \right]^{-2}$
+   - $\left[ \rm{M} \right] \left[ \rm{L} \right]^{-3}$
+   - $\left[ \rm{L} \right]^{2}$
+   - $\left[ \rm{M} \right] \left[ \rm{L} \right]^{2} \left[ \rm{T} \right]^{-2}$
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (2 3 4 5)
+   - speed or velocity
+   - density
+   - area
+   - energy
+#+REVEAL_HTML: </div>
+** 1.3.2 Exercises $-$ 2
+#+ATTR_HTML: :style text-align:left
+What are the dimensional combinations for the following quantities?
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (1 1 1 1)
+   - force
+   - momentum
+   - cycles per second
+   - electric current
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in)
+   - $\left[ \rm{M} \right] \left[ \rm{L} \right] \left[ \rm{T} \right]^{-2}$
+   - $\left[ \rm{M} \right] \left[ \rm{L} \right] \left[ \rm{T} \right]^{-1}$
+   - $\left[ \rm{T} \right]^{-1}$
+   - $\left[ \rm{Q} \right]\left[ \rm{T} \right]^{-1}$
+#+REVEAL_HTML: </div>
+* 2.0: Units 
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in) ;frag_idx (1)
+Units are essentially dimensions that are given a magnitude (size)
+** 2.1: Length
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in roll-in roll-in) :frag_idx (2 2 2 2 2 2)
+     - metre $\left(\rm{m}\right)$
+     - foot $\left(\rm{ft}\right)$
+     - mile $\left(\rm{mi}\right)$
+     - furlong $\left(\rm{fur}\right)$
+     - fathom $\left(\rm{ftm}\right)$
+     - lightyear $\left(\rm{ly}\right)$
+** 2.1.1: Time
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in roll-in roll-in roll-in roll-in roll-in) :frag_idx (1 1 1 1 1 1 1 1 1)
+     - second $\left(\rm{s}\right)$
+     - day $\left(\rm{d}\right)$
+     - year $\left(\rm{yr}\right)$
+     - svedberg $\left(\rm{S}\right)$
+     - jiffy
+     - lustrum
+     - millenium $\left(\rm{M}\right)$
+     - megannum
+     - aeon $\left(\rm{AE}\right)$
+** 2.1.2: Mass 
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in roll-in roll-in roll-in) :frag_idx (1 1 1 1 1 1 1)
+     - kilogram $\left(\rm{kg}\right)$
+     - tonne $\left(\rm{t}\right)$
+     - slug $\left(\rm{sl}\right)$
+     - pound $\left(\rm{lb}\right)$
+     - atomic mass unit $\left(\rm{u}\right)$
+     - electronvolt $\left(\rm{eV}\right)$
+     - solar mass $\left(\rm{M_{\odot}}\right)$
+** 2.2 SI base units
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in) :frag_idx (1 2)
+   - International system of units (Système international d'unités)
+   - base system known as metre-kilogram-second (MKS)  
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (3 3 3 4)
+     - length, metre $\left(\rm{m}\right)$
+     - time, second $\left(\rm{s}\right)$
+     - mass, kilogram $\left(\rm{kg}\right)$
+     - charge, coulomb $\left(\rm{C}\right)$
+** 2.3 SI derived units
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in) :frag_idx (1)
+   - SI base units are combined to yield so called derived units
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (2 2 2 3)
+     - speed, metres per second, $\left(\rm{m\, s^{-1}}\right)$
+     - force, newtons, $\left(\rm{N} \equiv \rm{kg\, m\, s^{-2}}\right)$
+     - energy, joules, $\left(\rm{J} \equiv \rm{N\,m} \equiv \rm{kg\, m^{2}\, s^{-2}}\right)$
+     - electric current, ampere, $\left(\rm{A} \equiv \rm{C\, s^{-1}}\right)$
+** 2.4 Exercises $-$ 3
+#+ATTR_HTML: :style text-align:left
+What is the correct combination of SI base units that describe the following quantities?
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (2 2 2 2)
+   - mass per unit length
+   - charge per unit area
+   - power
+   - pressure
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (3 4 5 6)
+   - $\rm{kg \, m^{-1}}$
+   - $\rm{C \, m^{-2}}$
+   - $\rm{W} \equiv \rm{J \, s^{-1}} \equiv \rm{N \, m \ s^{-1}} \equiv \rm{kg \, m^{2} \, s^{-3}}$
+   - $\rm{Pa} \equiv \rm{N \, m^{-2}} \equiv \rm{kg \, m^{-1} \, s^{-2}}$
+#+REVEAL_HTML: </div>
+** 2.5 Exercises $-$ 4
+#+ATTR_HTML: :style text-align:left
+What quantities are described by the following combination of SI base units?
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in) :frag_idx (2 2 2)
+   - $\rm{kg\, m\, s^{-2}}$
+   - $\rm{kg\, m\, s^{-1}}$
+   - $\rm{s^{-1}}$
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in) :frag_idx (3 4 5)
+   - force
+   - momentum
+   - cycles per second, frequency
+#+REVEAL_HTML: </div>
+* 3 SI prefixes
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in) ;frag_idx (1)
+large and small amounts of physical values may be quantified with prefixes 
+** 3.1 Some SI prefixes
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in) ;frag_idx (1)
+| designation | symbol          |     value   |
+|-------------+-----------------+-------------|
+| tera        | T               | $10^{12}$   |
+| giga        | G               | $10^{9}$    |
+| mega        | M               | $10^{6}$    |
+| kilo        | k               | $10^{3}$    |
+| milli       | m               | $10^{-3}$   |
+| micro       | $\unicode{181}$ | $10^{-6}$   |
+| nano        | n               | $10^{-9}$   |
+
+** 3.2 Examples of prefixes
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in) ;frag_idx (1)
+| kilogram    | kg   | $=$       | $10^{3}{\rm g}$            |
+| nanometre   | nm   | $=$       | $10^{-6}{\rm m}$           |
+| millisecond | ms   | $=$       | $10^{-3}{\rm s}$           |
+
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in) ;frag_idx (1)
+#+ATTR_HTML: :target _blank
+- Check out the
+  [[https://keeleacuk.sharepoint.com/:b:/r/sites/FNS-FoundationYearCentre-SFYTeam/Shared%20Documents/SFY%20Team/New%20Module%20Resources/Foundations%20in%20Physics/A4_booklet_CamMath_CURRENT_EXAM.pdf?csf=1&web=1&e=REtKru][Foundation Year Physics Tables]] booklet
+
+** 3.3.0 Exercises $-$ 5.0
+#+ATTR_HTML: :style text-align:left
+Describe the following quantities by 
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (1 2 3 4)
+   - determining the units of the answer
+   - giving your answer with 
+     - SI units specified in the question quantified by using scientific notation
+     - SI prefixed derived units 
+** 3.3.1 Exercises $-$ 5.1
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in) :frag_idx (1 2)
+   - Question :: The speed of a particle travels 5 centimetres in 10 nanoseconds
+   - Answer :: $5\times 10^{6} {\rm m \, s^{-1}} = 5 \, {\rm Mm \, s^{-1}}$
+** 3.3.2 Exercises $-$ 5.2
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in) :frag_idx (1 2)
+   - Question :: The work done on a body when a force of 1 kilonewton is applied to the body for a distance of 7 nanometres
+   - Answer :: $7 \times 10^{-6} {\rm N \, m} = 7 \,{\rm\unicode{181}J}$
+** 3.3.3 Exercises $-$ 5.3
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in) :frag_idx (1 2)
+   - Question :: The force exerted on a body of mass 1 tonne that is accelerated by 6 micrometers per millisecond per millisecond.
+   - Answer :: $6 \times 10^{3} {\rm kg \, m \, s^{-2}} = 6 \,{\rm
+               kN}$
+** 3.3.4 Exercises $-$ 5.4
+#+ATTR_HTML: :style text-align:left
+#+ATTR_REVEAL: :frag (roll-in roll-in) :frag_idx (1 2)
+   - Question :: The the pressure exerted by a cylindrical body of mass
+                 4.33 kilotonne that has a circular cross section of
+                 diameter 30.0 centimetres that is under under the
+                 influence of gravity in contact with a
+                 flat surface.
+   - Answer :: $6.00 \times 10^{8} {\rm kg \, m^{-1} \, s^{-2}} = 600
+               \,{\rm MPa} = 0.600 \,{\rm GPa}$

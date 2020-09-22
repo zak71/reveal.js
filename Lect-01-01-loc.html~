@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>FYO-00205 Lecture 01-01:</title>
+<meta name="author" content="(Dr. B. Zarychta (Zak))"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="file:///mnt/c/Users/Zak/GIT/reveal.js/dist/reveal.css"/>
+
+<link rel="stylesheet" href="file:///mnt/c/Users/Zak/GIT/reveal.js/dist/theme/black.css" id="theme"/>
+
+<link rel="stylesheet" href="file:///mnt/c/Users/Zak/GIT/reveal.js/plugin/highlight/zenburn.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'file:///mnt/c/Users/Zak/GIT/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>FYO-00205 Lecture 01-01:</h2><br><h1>Dimensions, Units and Conversions</h1>
+</section>
+
+<section>
+<section id="slide-orgb6da688">
+<h2 id="orgb6da688">0.0: Preliminaries</h2>
+<ul>
+<li>0.1 If you want to follow along with your own mobile device</li>
+
+</ul>
+<p target="_blank">
+<a href="https://zak71.github.io/reveal.js/Lect_0_19-20_1-02.html" target="_blank">https://zak71.github.io/reveal.js/FYO-00205/2020-21/Lect-01-01.html</a>
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-org5076c78">
+<h2 id="org5076c78">1.0: Quantities</h2>
+<div class="outline-text-2" id="text-org5076c78">
+</div>
+</section>
+<section id="slide-org9306060">
+<h3 id="org9306060">1.1: Dimensions</h3>
+<p class="fragment (roll-in)" style="text-align:left">
+All quantities in mechanics are composed of three base quantities refered to as dimensions.
+</p>
+<ul style="text-align:left">
+<li class="fragment roll-in">length, \(\left[ \rm{L} \right]\)</li>
+<li class="fragment roll-in">time, \(\left[ \rm{T} \right]\)</li>
+<li class="fragment roll-in">mass, \(\left[ \rm{M} \right]\)</li>
+
+</ul>
+<p class="fragment (roll-in)" style="text-align:left">
+when discussing electricity and magnetism we also include
+</p>
+<ul style="text-align:left">
+<li class="fragment roll-in">charge, \(\left[ \rm{Q} \right]\)</li>
+
+</ul>
+</section>
+<section id="slide-orgdb2364c">
+<h3 id="orgdb2364c">1.2: Combinations</h3>
+<p class="fragment (roll-in)" style="text-align:left">
+Combinations of these base quantities make up other quantities
+</p>
+<ul style="text-align:left">
+<li class="fragment roll-in">speed, \(\left[ \rm{L} \right] \left[ \rm{T} \right]^{-1}\)</li>
+<li class="fragment roll-in">acceleration, \(\left[ \rm{L} \right] \left[ \rm{T} \right]^{-2}\)</li>
+<li class="fragment roll-in">speed, \(\left[ \rm{M} \right] \left[ \rm{L} \right] \left[ \rm{T} \right]^{-2}\)</li>
+<li class="fragment roll-in">kinetic energy, \(\left[ \rm{M} \right] \left[ \rm{L} \right]^2 \left[ \rm{T} \right]^{-2}\)</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org2b0836e">
+<h2 id="org2b0836e">2.0: Units</h2>
+<div class="outline-text-2" id="text-org2b0836e">
+</div>
+</section>
+<section id="slide-orgbaee59f">
+<h3 id="orgbaee59f">2.1: Types/sizes</h3>
+<p class="fragment (roll-in)" style="text-align:left">
+Units are essentially dimensions that are given a measure
+</p>
+<p class="fragment (roll-in)" style="text-align:left">
+These come in different sizes
+</p>
+<ul style="text-align:left">
+<li class="fragment roll-in">length: 
+<ul>
+<li>metre \(\left(\rm{m}\right)\)</li>
+<li>foot \(\left(\rm{ft}\right)\)</li>
+<li>mile \(\left(\rm{mi}\right)\)</li>
+<li>furlong \(\left(\rm{fur}\right)\)</li>
+<li>fathom \(\left(\rm{ftm}\right)\)</li>
+<li>lightyear \(\left(\rm{ly}\right)\)</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-orgbaee59f-split">
+
+<h3>2.1: Types/sizes</h3>
+<ul style="text-align:left">
+<li class="fragment roll-in">time: 
+<ul>
+<li>second \(\left(\rm{s}\right)\)</li>
+<li>day \(\left(\rm{d}\right)\)</li>
+<li>year \(\left(\rm{yr}\right)\)</li>
+<li>svedberg \(\left(\rm{S}\right)\)</li>
+<li>jiffy</li>
+<li>lustrum</li>
+<li>millenium \(\left(\rm{M}\right)\)</li>
+<li>megannum</li>
+<li>aeon \(\left(\rm{AE}\right)\)</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-orgbaee59f-split">
+
+<h3>2.1: Types/sizes</h3>
+<ul style="text-align:left">
+<li class="fragment roll-in">mass: 
+<ul>
+<li>kilogram \(\left(\rm{kg}\right)\)</li>
+<li>tonne \(\left(\rm{t}\right)\)</li>
+<li>slug \(\left(\rm{sl}\right)\)</li>
+<li>pound \(\left(\rm{lb}\right)\)</li>
+<li>atomic mass unit \(\left(\rm{u}\right)\)</li>
+<li>electronvolt \(\left(\rm{eV}\right)\)</li>
+<li>solar mass \(\left(\rm{M_{\odot}}\right)\)</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-org090b038">
+<h3 id="org090b038">2.2 SI units</h3>
+<ul style="text-align:left">
+<li class="fragment roll-in">International system of units (Système international d'unités)</li>
+<li class="fragment roll-in">base system known as metre-kilogram-second (MKS)  
+<ul>
+<li>length, metre \(\left(\rm{m}\right)\)</li>
+<li>time, second \(\left(\rm{s}\right)\)</li>
+<li>mass, kilogram \(\left(\rm{kg}\right)\)</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-org15b1ae1" data-background="IMAGES/Keele_my_office_1-0.png" data-background-size="1024px" data-background-transition="slide">
+<h3 id="org15b1ae1"></h3>
+</section>
+</section>
+</div>
+</div>
+<script src="/mnt/c/Users/Zak/GIT/reveal.js/dist/reveal.js"></script>
+<script src="/mnt/c/Users/Zak/GIT/reveal.js/plugin/markdown/markdown.js"></script>
+<script src="/mnt/c/Users/Zak/GIT/reveal.js/plugin/highlight/highlight.js"></script>
+<script src="/mnt/c/Users/Zak/GIT/reveal.js/plugin/zoom/zoom.js"></script>
+<script src="/mnt/c/Users/Zak/GIT/reveal.js/plugin/notes/notes.js"></script>
+<script src="/mnt/c/Users/Zak/GIT/reveal.js/plugin/search/search.js"></script>
+
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+plugins: [RevealMarkdown,RevealHighlight,RevealZoom,RevealNotes,RevealSearch],
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+]
+});
+</script>
+</body>
+</html>
