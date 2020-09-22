@@ -27,24 +27,24 @@
 <body>
 <div class="reveal">
 <div class="slides">
-<section id="sec-title-slide"><h1 class="title">FY Physics Welcome talk</h1><h2 class="author">Dr. B. Zarychta (Zak)</h2><p class="date">Created: 2020-09-22 Tue 16:49</p>
+<section id="sec-title-slide"><h1 class="title">FY Physics Welcome talk</h1><h2 class="author">Dr. B. Zarychta (Zak)</h2><p class="date">Created: 2020-09-22 Tue 16:45</p>
 </section>
 
 <section>
-<section id="slide-org432d680">
-<h2 id="org432d680">0.0: Welcome</h2>
-<div class="outline-text-2" id="text-org432d680">
+<section id="slide-org4e62f0b">
+<h2 id="org4e62f0b">0.0: Welcome</h2>
+<div class="outline-text-2" id="text-org4e62f0b">
 </div>
 </section>
-<section id="slide-orgf0367b3">
-<h3 id="orgf0367b3">0.1 If you have your own mobile device</h3>
+<section id="slide-orgde495df">
+<h3 id="orgde495df">0.1 If you have your own mobile device</h3>
 <p target="_blank">
 <a href="https://zak71.github.io/reveal.js/Lect_0_19-20_1-02.html" target="_blank">https://zak71.github.io/reveal.js/Lect<sub>0</sub><sub>19</sub>-20<sub>1</sub>-02.html</a>
 </p>
 
 </section>
-<section id="slide-org62f2b6b">
-<h3 id="org62f2b6b">0.2 Teaching staff (name &amp; contact)</h3>
+<section id="slide-org2c8268f">
+<h3 id="org2c8268f">0.2 Teaching staff (name &amp; contact)</h3>
 <ul>
 <li class="fragment roll-in">Dr. Bernard Zarychta (Zak) 
 <ul>
@@ -60,8 +60,8 @@
 
 </ul>
 </section>
-<section id="slide-org27e489b">
-<h3 id="org27e489b">0.3 Teaching Staff (location)</h3>
+<section id="slide-orgd765419">
+<h3 id="orgd765419">0.3 Teaching Staff (location)</h3>
 <ul>
 <li>Science Learning Centre (SLC 0.11) "CREATE"
 <ul>
@@ -71,19 +71,19 @@
 
 </ul>
 </section>
-<section id="slide-orgd8c9ca1" data-background="IMAGES/Keele_my_office_1-0.png" data-background-size="1024px" data-background-transition="slide">
-<h3 id="orgd8c9ca1"></h3>
+<section id="slide-org285f279" data-background="IMAGES/Keele_my_office_1-0.png" data-background-size="1024px" data-background-transition="slide">
+<h3 id="org285f279"></h3>
 
 </section>
 </section>
 <section>
-<section id="slide-orge1c89d6">
-<h2 id="orge1c89d6">1.0: Course structure</h2>
-<div class="outline-text-2" id="text-orge1c89d6">
+<section id="slide-org21c642b">
+<h2 id="org21c642b">1.0: Course structure</h2>
+<div class="outline-text-2" id="text-org21c642b">
 </div>
 </section>
-<section id="slide-orgd84bc2b">
-<h3 id="orgd84bc2b">1.1: Course structure (Overview)</h3>
+<section id="slide-orga9dadee">
+<h3 id="orga9dadee">1.1: Course structure (Overview)</h3>
 <ul>
 <li class="fragment roll-in">4 modules in total (2 semesters)</li>
 <li class="fragment roll-in">2 ⨯ Autumn (Aut)</li>
@@ -91,8 +91,8 @@
 
 </ul>
 </section>
-<section id="slide-org3082118">
-<h3 id="org3082118">1.2: Course Structure (modules)</h3>
+<section id="slide-orgd4243e2">
+<h3 id="orgd4243e2">1.2: Course Structure (modules)</h3>
 <ul>
 <li class="fragment roll-in">FYO-00118 Newtonian World (Aut, KN)</li>
 <li class="fragment roll-in">FYO-00138 Quanta, Atoms, and particles (Aut, BZ)</li>
@@ -101,8 +101,8 @@
 
 </ul>
 </section>
-<section id="slide-orgb380acf">
-<h3 id="orgb380acf">1.3: Course Structure (Semesters)</h3>
+<section id="slide-org58f9803">
+<h3 id="org58f9803">1.3: Course Structure (Semesters)</h3>
 <p target="_blank">
 <a href="https://www.keele.ac.uk/students/academiclife/keydates/" target="_blank">Keele University key dates</a>
 </p>
@@ -123,18 +123,18 @@
 </section>
 </section>
 <section>
-<section id="slide-orgb48f077">
-<h2 id="orgb48f077">2.0: Assessment</h2>
-<div class="outline-text-2" id="text-orgb48f077">
+<section id="slide-org94d079a">
+<h2 id="org94d079a">2.0: Assessment</h2>
+<div class="outline-text-2" id="text-org94d079a">
 </div>
 </section>
-<section id="slide-orgdf24fe3">
-<h3 id="orgdf24fe3">2.1: Assessment (types)</h3>
-<div class="outline-text-3" id="text-orgdf24fe3">
+<section id="slide-orga388ea3">
+<h3 id="orga388ea3">2.1: Assessment (types)</h3>
+<div class="outline-text-3" id="text-orga388ea3">
 </div>
 </section>
-<section id="slide-org795fd38">
-<h4 id="org795fd38">2.1.1: Examinations</h4>
+<section id="slide-orgd9b3a7d">
+<h4 id="orgd9b3a7d">2.1.1: Examinations</h4>
 <p target="_blank">
 dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/examinationtimetables/" target="_blank">Exam timetables</a>
 </p>
@@ -144,16 +144,16 @@ dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/exami
 
 </ul>
 </section>
-<section id="slide-org7e4b16e">
-<h4 id="org7e4b16e">2.1.2: Assessed Problem Sheets (APS's)</h4>
+<section id="slide-org3433dcc">
+<h4 id="org3433dcc">2.1.2: Assessed Problem Sheets (APS's)</h4>
 <ul>
 <li class="fragment roll-in">FYO-00118 by Thu wk5</li>
 <li class="fragment roll-in">FYO-00138 by Thu wk6</li>
 
 </ul>
 </section>
-<section id="slide-org32b8572">
-<h4 id="org32b8572">2.1.3: Laboratory</h4>
+<section id="slide-org12e7938">
+<h4 id="org12e7938">2.1.3: Laboratory</h4>
 <ul>
 <li class="fragment roll-in">FYO-00118 lab notebook by Thu wk8</li>
 <li class="fragment roll-in">FYO-00138 typeset report by Mon wk13 06/01/2020</li>
@@ -161,22 +161,22 @@ dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/exami
 </ul>
 
 </section>
-<section id="slide-orga627b8a" data-background="IMAGES/module_pie_1-1.png" data-background-size="1024px" data-background-transition="slide">
-<h3 id="orga627b8a"></h3>
+<section id="slide-org4b17cb2" data-background="IMAGES/module_pie_1-1.png" data-background-size="1024px" data-background-transition="slide">
+<h3 id="org4b17cb2"></h3>
 
 </section>
 </section>
 <section>
-<section id="slide-org2571fc9">
-<h2 id="org2571fc9">3.0 Ground Rules</h2>
-<div class="outline-text-2" id="text-org2571fc9">
+<section id="slide-orgccbac65">
+<h2 id="orgccbac65">3.0 Ground Rules</h2>
+<div class="outline-text-2" id="text-orgccbac65">
 </div>
 </section>
-<section id="slide-orgfb8e3c2">
-<h3 id="orgfb8e3c2">3.1 Our expectations</h3>
+<section id="slide-orgb303b5b">
+<h3 id="orgb303b5b">3.1 Our expectations</h3>
 </section>
-<section id="slide-org672704b">
-<h3 id="org672704b">3.1.1 Engagement</h3>
+<section id="slide-org9265a2c">
+<h3 id="org9265a2c">3.1.1 Engagement</h3>
 <ul>
 <li class="fragment roll-in">be active&#x2026;.</li>
 <li class="fragment roll-in">&#x2026; note taking</li>
@@ -184,8 +184,8 @@ dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/exami
 
 </ul>
 </section>
-<section id="slide-org07f64dd">
-<h3 id="org07f64dd">3.1.2 Punctuality</h3>
+<section id="slide-orgeb4ff37">
+<h3 id="orgeb4ff37">3.1.2 Punctuality</h3>
 <ul>
 <li class="fragment roll-in">lateness is disruptive&#x2026;</li>
 <li class="fragment roll-in">&#x2026; occasionally forgivable</li>
@@ -193,18 +193,18 @@ dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/exami
 
 </ul>
 </section>
-<section id="slide-orgfb11b63">
-<h3 id="orgfb11b63">3.1.3 Noise</h3>
+<section id="slide-org27fdbed">
+<h3 id="org27fdbed">3.1.3 Noise</h3>
 <ul>
 <li class="fragment roll-in">be respectful of the person addressing the room</li>
 
 </ul>
 </section>
-<section id="slide-org0ec0d2d">
-<h3 id="org0ec0d2d">3.2 Your expectations</h3>
+<section id="slide-org898e47a">
+<h3 id="org898e47a">3.2 Your expectations</h3>
 </section>
-<section id="slide-org3fce005">
-<h3 id="org3fce005">3.2.1 Communication</h3>
+<section id="slide-org43c5697">
+<h3 id="org43c5697">3.2.1 Communication</h3>
 <ul>
 <li class="fragment roll-in">Emails replied to within 48 (working) hours</li>
 <li class="fragment roll-in">Organise appointments&#x2026;.</li>
@@ -213,8 +213,8 @@ dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/exami
 
 </ul>
 </section>
-<section id="slide-org8d8596d">
-<h3 id="org8d8596d">3.2.2 Assessment</h3>
+<section id="slide-orgb01e999">
+<h3 id="orgb01e999">3.2.2 Assessment</h3>
 <ul>
 <li class="fragment roll-in">Returned within 3 (working) weeks</li>
 <li class="fragment roll-in">can request further feedback&#x2026;</li>
@@ -225,20 +225,20 @@ dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/exami
 </section>
 </section>
 <section>
-<section id="slide-orgd650452">
-<h2 id="orgd650452">4.0 Additional stuff</h2>
-<div class="outline-text-2" id="text-orgd650452">
+<section id="slide-org3ad86ca">
+<h2 id="org3ad86ca">4.0 Additional stuff</h2>
+<div class="outline-text-2" id="text-org3ad86ca">
 </div>
 </section>
-<section id="slide-org0ac8e37">
-<h3 id="org0ac8e37">4.1 Set text</h3>
+<section id="slide-orga92401c">
+<h3 id="orga92401c">4.1 Set text</h3>
 <ul>
 <li>Advanced Physics, Tom Duncan, 5th ed, 2000</li>
 
 </ul>
 </section>
-<section id="slide-org05b8a0c">
-<h3 id="org05b8a0c">4.2 Calculators</h3>
+<section id="slide-org9111882">
+<h3 id="org9111882">4.2 Calculators</h3>
 <ul>
 <li>Aurora SC582 series</li>
 <li>Casio FX-83 series</li>
@@ -252,8 +252,8 @@ dates TBA in <a href="https://www.keele.ac.uk/studentservices/examinations/exami
 </section>
 </section>
 <section>
-<section id="slide-orgd2dffe5">
-<h2 id="orgd2dffe5">5.0 Questions ?</h2>
+<section id="slide-orgf861b8d">
+<h2 id="orgf861b8d">5.0 Questions ?</h2>
 <p target="_blank">
 email: <br />
 <a href="mailto:%20b.zarychta@keele.ac.uk" target="_blank">b.zarychta@keele.ac.uk</a> <br />
@@ -261,8 +261,8 @@ email: <br />
 </p>
 
 </section>
-<section id="slide-orgcc4ae46">
-<h3 id="orgcc4ae46">5.1 A question for you</h3>
+<section id="slide-org3df2220">
+<h3 id="org3df2220">5.1 A question for you</h3>
 <p>
 \(-80538738812075974^3 \\ + 80435758145817515^3 \\ + 12602123297335631^3 = \,\,?\\\)
 </p>
@@ -271,11 +271,11 @@ email: <br />
 </p>
 
 </section>
-<section id="slide-orge6dcbb9">
-<h3 id="orge6dcbb9">Whatever you do,&#x2026;..</h3>
+<section id="slide-org4df81e8">
+<h3 id="org4df81e8">Whatever you do,&#x2026;..</h3>
 </section>
-<section id="slide-orgff9967d" data-background="IMAGES/dont_panic.png" data-background-size="1024px" data-background-transition="slide" data-audio-src="./audio/song.ogg">
-<h3 id="orgff9967d"></h3>
+<section id="slide-org65dd127" data-background="IMAGES/dont_panic.png" data-background-size="1024px" data-background-transition="slide" data-audio-src="./audio/song.ogg">
+<h3 id="org65dd127"></h3>
 </section>
 </section>
 </div>
