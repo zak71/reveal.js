@@ -32,44 +32,18 @@
 #+REVEAL_TITLE_SLIDE: <h2>%t</h2><br><h1>%s</h1>
 
 
-#+Title: FYO-00205 Lecture 01-01: 
-#+Subtitle: Dimensions, Units and Conversions 
+#+Title: FYO-00205 Lecture 02-01: 
+#+Subtitle: Vectors 
 #+Author: Dr. B. Zarychta (Zak)
 #+Email: [[mailto: b.zarychta@keele.ac.uk][b.zarychta@keele.ac.uk]]
-#+Date: 15th August 2020
+# #+Date: 21st September 2020
 * Table of contents
-  - [[Table of contents][Table of contents]]
-  - [[0.0: Preliminaries][0.0: Preliminaries]]
-    - [[Prerequisites][Prerequisites]]
-  - [[1.0: Dimensions][1.0: Dimensions]]
-    - [[1.1: Base dimensions][1.1: Base dimensions]]
-    - [[1.2: Dimensional combinations][1.2: Dimensional combinations]]
-    - [[1.3.1 Exercises $-$ 1][1.3.1 Exercises $-$ 1]]
-    - [[1.3.2 Exercises $-$ 2][1.3.2 Exercises $-$ 2]]
-#+REVEAL: split
-  - [[2.0: Units][2.0: Units]]
-    - [[2.1: Length][2.1: Length]]
-    - [[2.1.1: Time][2.1.1: Time]]
-    - [[2.1.2: Mass][2.1.2: Mass]]
-    - [[2.2 SI base units][2.2 SI base units]]
-    - [[2.3 SI derived units][2.3 SI derived units]]
-    - [[2.4 Exercises $-$ 3][2.4 Exercises $-$ 3]]
-    - [[2.5 Exercises $-$ 4][2.5 Exercises $-$ 4]]
-#+REVEAL: split
-  - [[3 SI prefixes][3 SI prefixes]]
-    - [[3.1 Some SI prefixes][3.1 Some SI prefixes]]
-    - [[3.2 Examples of prefixes][3.2 Examples of prefixes]]
-    - [[3.3.0 Exercises $-$ 5.0][3.3.0 Exercises $-$ 5.0]]
-    - [[3.3.1 Exercises $-$ 5.1][3.3.1 Exercises $-$ 5.1]]
-    - [[3.3.2 Exercises $-$ 5.2][3.3.2 Exercises $-$ 5.2]]
-    - [[3.3.3 Exercises $-$ 5.3][3.3.3 Exercises $-$ 5.3]]
-    - [[3.3.4 Exercises $-$ 5.4][3.3.4 Exercises $-$ 5.4]]
 * 0.0: Preliminaries
 ** Prerequisites 
    - students should be familiar with 
-     - powers and indices
-     - Standard form/scientific notation
-* 1.0: Dimensions
+     - The triginometry of right triangles
+     - negative numbers
+* 1.0:  
 ** 1.1: Base dimensions
 #+ATTR_REVEAL: :frag (roll-in) :frag_idx (1)
 #+ATTR_HTML: :style text-align:left
@@ -104,18 +78,18 @@ What are the quantites described by the following dimensional combinations?
 #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
 #+ATTR_HTML: :style text-align:left
 #+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (1 1 1 1)
-   - $\left[ \rm{L} \right]^{2}$
-   - $\left[ \rm{L} \right] \left[ \rm{T} \right]^{-1}$
+   - $\left[ \rm{L} \right] \left[ \rm{T} \right]^{-2}$
    - $\left[ \rm{M} \right] \left[ \rm{L} \right]^{-3}$
+   - $\left[ \rm{L} \right]^{2}$
    - $\left[ \rm{M} \right] \left[ \rm{L} \right]^{2} \left[ \rm{T} \right]^{-2}$
 #+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
 #+ATTR_HTML: :style text-align:left
 #+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (2 3 4 5)
-   - area
    - speed or velocity
    - density
+   - area
    - energy
 #+REVEAL_HTML: </div>
 ** 1.3.2 Exercises $-$ 2
@@ -230,8 +204,7 @@ What quantities are described by the following combination of SI base units?
    - momentum
    - cycles per second, frequency
 #+REVEAL_HTML: </div>
-* 3.0:
-SI Prefixes
+* 3 SI prefixes
 #+ATTR_HTML: :style text-align:left
 #+ATTR_REVEAL: :frag (roll-in) ;frag_idx (1)
 large and small amounts of physical values may be quantified with prefixes 
@@ -259,7 +232,7 @@ large and small amounts of physical values may be quantified with prefixes
 #+ATTR_REVEAL: :frag (roll-in) ;frag_idx (1)
 #+ATTR_HTML: :target _blank
 - Check out the
-  [[https://keeleacuk.sharepoint.com/:b:/r/sites/FNS-FoundationYearCentre-SFYTeam/Shared%20Documents/SFY%20Team/New%20Module%20Resources/Foundations%20in%20Physics/A4_booklet_CamMath_CURRENT_EXAM.pdf?csf=1&web=1&e=REtKru][Foundation Year Physics Tablet]booklet
+  [[https://keeleacuk.sharepoint.com/:b:/r/sites/FNS-FoundationYearCentre-SFYTeam/Shared%20Documents/SFY%20Team/New%20Module%20Resources/Foundations%20in%20Physics/A4_booklet_CamMath_CURRENT_EXAM.pdf?csf=1&web=1&e=REtKru][Foundation Year Physics Tables]] booklet
 
 ** 3.3.0 Exercises $-$ 5.0
 #+ATTR_HTML: :style text-align:left
@@ -295,20 +268,3 @@ Describe the following quantities by
                  flat surface.
    - Answer :: $6.00 \times 10^{8} {\rm kg \, m^{-1} \, s^{-2}} = 600
                \,{\rm MPa} = 0.600 \,{\rm GPa}$
-* 4.0: Conversions
-** 4.1: Strategy
-#+ATTR_HTML: :style text-align:left
-#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (2 2 2)
-  - Given an amount $a$ of unit $\rm{A}$ that is equal to an amount $b$ of unit $\rm{B}$
-  - Then $a \rm{A} = $a \rm{A}$
-** 
-  - convert to base SI units
-     - calculate
-     - convert back to required units
-** 4.2 Example
-#+ATTR_HTML: :style text-align:left
-#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in) :frag_idx (2 2 2)
-     - convert to metres per second the speed of a Cheetah that runs at 73.3 miles per hour
-     - Now $ 1\,{\rm mile} = 1609\,{\rm m}$, 
-     - $1\,{\rm hour} = 60\,{\rm min}$ and $1\,{\rm min} = 60\,{\rm s}$
-     - So, 
